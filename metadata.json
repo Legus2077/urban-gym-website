@@ -1,0 +1,6 @@
+{
+  "name": "Urban GYM - Alto Rendimiento",
+  "description": "Landing page de Urban GYM con sedes Belaúnde, Universitaria y Av. México, galería de instalaciones, membresías y contacto directo por WhatsApp.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
